@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-body{ Background-image:url(https://static.pexels.com/photos/396547/pexels-photo-396547.jpeg)
+body{Background-image:url(https://static.pexels.com/photos/396547/pexels-photo-396547.jpeg)
 </style>
  <tittle> 
 <font Color="white" size="72"> 
