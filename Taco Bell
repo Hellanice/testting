@@ -1,21 +1,26 @@
+
 <!DOCTYPE HTML> 
 <html>
 <head> 
 <style>
-body{background-image:url(https://pbs.twimg.com/media/Bh_4BhtCIAA8SD4.jpg)
+body {background-image:url(https://pbs.twimg.com/media/Bh_4BhtCIAA8SD4.jpg)
 </style>
-<title>
-<font face="Arial" size="30" color="white">
+
+<tittle>
+<h1>
+<font face="verdana" size="30" color="Red">
 Vive Más: Taco Bell
-</title>
+</tittle>
+</h1>
 </head>
-
-<img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bellcurve.svg/1280px-Bellcurve.svg.png">
-
-<h> 
-<font face="Arial" size="30" color="white">
+<body>
+<img src="http://blogs.discovermagazine.com/gnxp/files/2012/05/norm.jpg">
+<P>
+<font face="verdana" size="30" color="Red">
 its a taco <strong> BELL </strong> </break>
 JAJAJAJAJAJAJAJAJA
 </font> 
-</h> 
+</p> 
+</body>
 </html>
+
