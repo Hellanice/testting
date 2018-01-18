@@ -8,19 +8,11 @@ body {background-image:url(https://pbs.twimg.com/media/Bh_4BhtCIAA8SD4.jpg)
 
 <tittle>
 <h1>
+<center>
 <font face="verdana" size="30" color="Red">
 Vive Más: Taco Bell
-</tittle>
+</center>
 </h1>
-</head>
-<body>
-<img src="http://blogs.discovermagazine.com/gnxp/files/2012/05/norm.jpg">
-<P>
-<font face="verdana" size="30" color="Red">
-its a taco <strong> BELL </strong> </break>
-JAJAJAJAJAJAJAJAJA
-</font> 
-</p> 
-</body>
+</tittle>
 </html>
 
